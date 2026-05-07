@@ -110,7 +110,7 @@ elearning-usability-analysis/
 │   ├── paired_sample_ttest_data.sav
 │   └── pearson_correlation_data.sav
 │
-├── outputs/
+├── output/
 │   ├── paired_sample_ttest_output.spv
 │   └── pearson_correlation_output.spv
 │
