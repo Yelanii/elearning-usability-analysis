@@ -117,10 +117,8 @@ elearning-usability-analysis/
 ├── report/
 │   └── usability_analysis_report.pdf
 │
-├── images/
-│
 ├── README.md
-└── .gitignore
+
 ```
 
 ---
